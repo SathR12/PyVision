@@ -1,0 +1,25 @@
+Text Extraction and other OCR functions
+
+text_extraction.setPath(r"path")
+
+  Takes in a raw string of the path to tesseract.exe. This is necessary if you do not have a tesseract executable in the current path.
+  
+  
+text_extraction.extractText(img)
+
+  Takes an image as a parameter and returns the string representation of the text identified in the given image.
+  
+
+text_extraction.extractDigits(img)
+
+  Takes an image as a parameter and returns the digits identified in the given image.
+  
+ 
+text_extraction.detectText(img)
+  
+  Takes and image as a parameter and draws a green rectangular box around the text in the given image. 
+  
+
+text_extraction.detectDigits(img)
+
+  Takes and image as a parameter and draws a green rectangular box around the digits identified in the given image. 
