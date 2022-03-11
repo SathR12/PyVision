@@ -1,0 +1,15 @@
+Pre-coded models
+
+apple_detection.detectApples(img)
+
+  Pass an image as a parameter and detectApples(your_img) will identify red apples in the image. You must use cv.imshow() to display the image.
+  
+
+circle_detection.traceCircles(img)
+
+  Pass an image as a parameter and traceApples(your_img) will identify all circles in the image. You must use cv.imshow() to display the image.
+  
+
+powercell_detection.tracePowercells(img)
+
+  Pass an image as parameter and tracePowercells(your_img) will identify all powercells in the image. Powercells were used in a previous frc game. You must use cv.imshow() to display the image. 
