@@ -1,0 +1,31 @@
+Complex OpenCV functions simplified for usage
+
+getContours(mask)
+
+  Returns a list of all approximated contours in the mask/ or grayscale image. 
+  
+ 
+drawBoundingRect(img, contour, color, thickness)
+
+  Draws a rectangle around specified contour. Color and thickness are default parameters. 
+  
+  
+drawRect(img, contour, color, thickness)
+
+  Draws a straight rectangle around specified contour. Color and thickness are default parameters.
+  
+  
+drawAllContours(img, contours, color, thickness)
+
+  Draws all contours in a given image. Must pass an array of contours. Color and thickness are default parameters.
+  
+
+drawCircle(img, contour, color, thickness)
+
+  Draws a circle around specified contour. Color and thickness are default parameters. 
+  
+
+getEdges(contour)
+
+  Returns the number of approximated edges of a contour.
+  
