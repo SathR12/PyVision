@@ -12,7 +12,7 @@ Git clone and import the sys module to append paths.
 
 All modules must be imported before using the PyVision package. 
 
-When using the pytesseract module, specify the tesseract.exe path before running code. To get the tesseract.exe path, enter tesseract_files and locate the application tesseract.exe. If you do not have a tesseract executable in the current path, use the setPath function from the OCR folder. 
+When using the pytesseract module, specify the tesseract.exe path before running code. To get the tesseract.exe path, enter tessexc and locate the application tesseract.exe. If you do not have a tesseract executable in the current path, use the setPath function from the OCR folder. 
 
 Sample Code Run:
 
