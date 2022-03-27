@@ -1,4 +1,6 @@
-# WORKS FOR WINDOWS ONLY
+# Operating System
+
+Works only for windows 
 
 ![PyVisionLogo](https://user-images.githubusercontent.com/74515743/156907013-285801ad-7d1b-4ab1-a30f-41be1175aca7.png)
 
