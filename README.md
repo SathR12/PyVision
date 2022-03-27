@@ -1,11 +1,13 @@
 ![PyVisionLogo](https://user-images.githubusercontent.com/74515743/156907013-285801ad-7d1b-4ab1-a30f-41be1175aca7.png)
 
+# WORKS FOR WINDOWS ONLY
 
 # What is PyVision?
 
-PyVision is a small package for basic frc utilities. It includes image editing, pre-coded models, OCR using pytesseract, and shape detection
+PyVision is a small package for basic frc utilities. It includes image editing, pre-coded models, OCR using pytesseract, and shape detection.
 
 # How to use PyVision
+
 Git clone and import the sys module to append paths. 
 
 # Dependencies
