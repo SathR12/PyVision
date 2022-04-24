@@ -16,8 +16,7 @@ When using the pytesseract module, specify the tesseract.exe path before running
 
 # Operating System
 
-Works only for windows 
-
+Works only for windows currently
 
 # Sample Code Run:
 
